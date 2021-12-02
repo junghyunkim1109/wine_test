@@ -1,2 +1,4 @@
 # wine_test
-A project using ML with PySpark in AWS to predict wine quality for CS643
+A project to predict wine quality by developing parallel machine learning (ML) applications in Amazon AWS cloud platform:
+ - Apache Spark to train an ML model in parallel on multiple EC2 instances
+ - Spark’s MLlib to develop and use an ML model in the cloud
